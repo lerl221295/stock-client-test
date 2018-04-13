@@ -10,12 +10,12 @@ $ npm install
 
 ### Run 
 
-* First, run the API
+* First, run the API, then:
 
 ```sh
 $ npm run start 
 ```
 
-*Go to localhost:8080/stock
+* Go to localhost:8080/stock
 
 :)
